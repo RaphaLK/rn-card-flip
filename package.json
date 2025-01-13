@@ -1,0 +1,24 @@
+{
+  "name": "rn-card-flip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaLK/rn-card-flip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaLK/rn-card-flip/issues"
+  },
+  "homepage": "https://github.com/RaphaLK/rn-card-flip#readme",
+  "description": "",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.76.6"
+  }
+}
